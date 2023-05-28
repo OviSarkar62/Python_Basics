@@ -31,3 +31,4 @@ Some basic python codes are practised for beginners in this repository. It will 
 27. [Regular Expression](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Regular%20Expression.py)
 28. [Search & Replace](https://github.com/OviSarkar62/Python_Basics/blob/38f177a33f00181bcaa6962405112db9f38e5568/Search%20%26%20Replace.py)
 29. [Meta Character](https://github.com/OviSarkar62/Python_Basics/blob/38f177a33f00181bcaa6962405112db9f38e5568/Meta%20Character.py)
+30. [Character Class](https://github.com/OviSarkar62/Python_Basics/blob/996973ccc3290daddf3e7ef5b5b6c26ceac7fc15/Character%20Class.py)
