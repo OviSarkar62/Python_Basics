@@ -15,3 +15,8 @@ Some basic python codes are practised for beginners in this repository. It will 
 11. [Set](https://github.com/OviSarkar62/Python_Basics/blob/78dca77c1fc3d6aace768c2581ce1a8ee38c73af/Set.py)
 12. [Function](https://github.com/OviSarkar62/Python_Basics/blob/78dca77c1fc3d6aace768c2581ce1a8ee38c73af/Function.py)
 13. [Xarg](https://github.com/OviSarkar62/Python_Basics/blob/78dca77c1fc3d6aace768c2581ce1a8ee38c73af/xargs.py)
+14. [Lambda](https://github.com/OviSarkar62/Python_Basics/blob/960b9a7b296ab21cae04a308e3ddefe161f66247/Lambda.py)
+15. [List Comprehension](https://github.com/OviSarkar62/Python_Basics/blob/960b9a7b296ab21cae04a308e3ddefe161f66247/List%20Comprehension.py)
+16. [Exception Handling](https://github.com/OviSarkar62/Python_Basics/blob/960b9a7b296ab21cae04a308e3ddefe161f66247/Exception%20Handling1.py)
+17. [Swapping](https://github.com/OviSarkar62/Python_Basics/blob/960b9a7b296ab21cae04a308e3ddefe161f66247/Swapping.py)
+18. 
