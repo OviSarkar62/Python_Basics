@@ -21,4 +21,12 @@ Some basic python codes are practised for beginners in this repository. It will 
 17. [Exception Handling](https://github.com/OviSarkar62/Python_Basics/blob/960b9a7b296ab21cae04a308e3ddefe161f66247/Exception%20Handling1.py)
 18. [Swapping](https://github.com/OviSarkar62/Python_Basics/blob/960b9a7b296ab21cae04a308e3ddefe161f66247/Swapping.py)
 19. [Word Count](https://github.com/OviSarkar62/Python_Basics/blob/13972d7df11df920ed9f586fad93a418337a0bbd/Word%20count%20in%20string.py)
-20. 
+20. [Class & Object](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Class%20%26%20Object.py)
+21. [Constructor](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Constructor.py)
+22. [Area with Constructor](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Area%20with%20Constructor.py)
+23. [Inheritance](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Inheritance2.py)
+24. [Overriding](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Overriding.py)
+25. [Abstraction](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Abstraction.py)
+26. [Polymorphic Function](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Polymorphic%20Function.py)
+27. [Regular Expression](https://github.com/OviSarkar62/Python_Basics/blob/e1635728c0cbe7aa71dddcc5c17b28cb3cb4038b/Regular%20Expression.py)
+28. 
